@@ -1,2 +1,6 @@
 indiana
 denver
+
+nyc
+omaha
+paris
